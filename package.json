@@ -1,0 +1,13 @@
+{
+  "name": "qr-wifi-server",
+  "version": "1.0.0",
+  "description": "Servidor Express para código QR",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
